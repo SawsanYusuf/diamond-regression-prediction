@@ -297,4 +297,3 @@ Based on the displayed output, ensemble methods like Random Forest Regressor, Gr
 ## 6. Conclusion
 
 This notebook demonstrates a comprehensive approach to diamond price prediction using various machine learning regression techniques. The EDA provides valuable insights into the relationships between diamond attributes and price. The preprocessing steps ensure the data is suitable for model training. The evaluation results highlight the effectiveness of ensemble learning methods for this regression task. Further steps could involve hyperparameter tuning for the top-performing models to potentially improve their accuracy.
-```
