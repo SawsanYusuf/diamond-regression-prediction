@@ -1,4 +1,5 @@
 # Diamond Price Prediction
+![](https://github.com/SawsanYusuf/diamond-regression-prediction/blob/main/diamond.jpg)
 
 This Jupyter Notebook explores the **Diamond Price Prediction** problem, aiming to build regression models to predict diamond prices based on their attributes.
 
